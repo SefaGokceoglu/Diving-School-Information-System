@@ -19,4 +19,5 @@ DALIŞ YERLERİ TABLOSU (DIVING PLACES TABLE )
 
 ER DİYAGRAMI ( ER DIAGRAM)
 
+![Resim5](https://user-images.githubusercontent.com/75680845/104840099-58250980-58d6-11eb-861e-6a01d62ec652.jpg)
 
